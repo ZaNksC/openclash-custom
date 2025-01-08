@@ -1,50 +1,38 @@
 [
   {
-    "id": "1",
+	"id": "category-1"
     "category": "Work",
-    "name": "GitHub",
-    "tags": ["Code", "Repository"],
-    "url": "https://github.com",
-    "description": "A platform for version control and collaboration."
+	"links": [
+		{
+			"id": "link-1"
+			"name": "GitHub",
+			"url": "https://github.com",
+			"description": "A platform for version control and collaboration."
+		},
+		{
+			"id": "link-2"
+			"name": "GitLab",
+			"url": "https://gitlab.com",
+			"description": "A complete DevOps platform for software development."
+		}
+	]
   },
   {
-    "id": "2",
-    "category": "Work",
-    "name": "GitLab",
-    "tags": ["Code", "Repository"],
-    "url": "https://gitlab.com",
-    "description": "A complete DevOps platform for software development."
-  },
-  {
-    "id": "3",
+	"id": "category-2"
     "category": "Social",
-    "name": "Twitter",
-    "tags": ["Social Media", "News"],
-    "url": "https://twitter.com",
-    "description": "A social media platform for real-time updates and discussions."
-  },
-  {
-    "id": "6",
-    "category": "Social",
-    "name": "Facebook",
-    "tags": ["Social Media", "Friends"],
-    "url": "https://facebook.com",
-    "description": "Connect with friends and family on this social networking site."
-  },
-  {
-    "id": "4",
-    "category": "Entertainment",
-    "name": "YouTube",
-    "tags": ["Videos", "Music"],
-    "url": "https://youtube.com",
-    "description": "Watch and share videos on the world's largest video platform."
-  },
-  {
-    "id": "5",
-    "category": "Entertainment",
-    "name": "Netflix",
-    "tags": ["Movies", "TV Shows"],
-    "url": "https://netflix.com",
-    "description": "Stream your favorite movies and TV shows on Netflix."
+	"links": [
+		{
+			"id": "link-3"
+			"name": "Twitter",
+			"url": "https://twitter.com",
+			"description": "A social media platform for real-time updates and discussions."
+		},
+		{
+			"id": "link-4"
+			"name": "Facebook",
+			"url": "https://facebook.com",
+			"description": "Connect with friends and family on this social networking site."
+		}
+	]
   }
 ]
