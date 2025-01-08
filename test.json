@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "category": "Work",
     "name": "GitHub",
     "tags": ["Code", "Repository"],
@@ -7,6 +8,7 @@
     "description": "A platform for version control and collaboration."
   },
   {
+    "id": "2",
     "category": "Work",
     "name": "GitLab",
     "tags": ["Code", "Repository"],
@@ -14,6 +16,7 @@
     "description": "A complete DevOps platform for software development."
   },
   {
+    "id": "3",
     "category": "Social",
     "name": "Twitter",
     "tags": ["Social Media", "News"],
@@ -21,6 +24,7 @@
     "description": "A social media platform for real-time updates and discussions."
   },
   {
+    "id": "6",
     "category": "Social",
     "name": "Facebook",
     "tags": ["Social Media", "Friends"],
@@ -28,6 +32,7 @@
     "description": "Connect with friends and family on this social networking site."
   },
   {
+    "id": "4",
     "category": "Entertainment",
     "name": "YouTube",
     "tags": ["Videos", "Music"],
@@ -35,6 +40,7 @@
     "description": "Watch and share videos on the world's largest video platform."
   },
   {
+    "id": "5",
     "category": "Entertainment",
     "name": "Netflix",
     "tags": ["Movies", "TV Shows"],
